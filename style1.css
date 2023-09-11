@@ -1,0 +1,9 @@
+.check {
+    background-image: url(micros...avif);
+}
+.big{
+    width:1198px;
+    height:571px;
+    margin:auto;
+    background-image: url(big.jpeg);
+}
